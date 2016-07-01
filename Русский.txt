@@ -9,58 +9,58 @@
 #7# Настройки
 #8# Сохранить
 #9# Выход
-#10# Respawn
+#10# Начать заново
 #11# Ранний доступ
-#12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
+#12# Игра ещё не завершена, но находится в очень активной разработке. Дополнительную информацию можно получить в блоге разработки на Steam Community Hub.
 #13# Новости
 #14# Обсуждения
 #15# Руководства
 #16# Список задач
-#17# Are you sure?
+#17# Вы уверены?
 #18# Выход
 #19# Назад
 #20# Прямое Подключение
 #21# Steam Connect (coming soon)
-#22# Developers
-#23# The game is developed by three friends with nicknames Artaani, Riya and Romenics  Visit our development blog on the Steam Community Hub for further information
-#24# Save
-#25# Default
-#26# Apply
+#22# Разработчики
+#23# Игра разработана тремя друзьями под никами Artaani, Riya и Romenics. Посетите наш блог разработки на Steam Community Hub чтобы получить больше информации
+#24# Сохранить
+#25# По-умолчанию
+#26# Применить
 #27# Звук
-#28# Total
-#29# Music
-#30# GAME
-#31# Show help
-#32# Show time In chat
-#33# Sandbox Mode
-#34# Swap mouse buttons
-#35# Auto save interval
-#36# GRAPHIC
-#37# Full Screen
-#38# Textures Quality
-#39# Anti-Aliasing
-#40# V-sync
-#41# Resolution
-#42# Press any key to set key or press ESC to exit
-#43# Save
-#44# Default
-#45# HOTKEYS
-#46# SELECT THE WORLD
-#47# NAME
-#48# SAVE DATE
-#49# GAME TIME
-#50# VERSION
-#51# CREATE WORLD
-#52# Confirm deletion of world
-#53# Back
-#54# Delete
-#55# PORT
-#56# Password
-#57# MAX PLAYERS
-#58# DELETE
-#59# LOAD
-#60# LOADING
-#61# Connecting...
+#28# Итого
+#29# Музыка
+#30# ИГРА
+#31# Показывать подсказки
+#32# Показывать время в чате
+#33# Режим песочницы
+#34# Отразить кнопки мыши
+#35# Интервал автосохранения
+#36# ГРАФИКА
+#37# Полный экран
+#38# Качество текстур
+#39# Сглаживание
+#40# Вертикальная синхронизация
+#41# Разрешение
+#42# Нажмите назначаемую клавишу или ESC для отмены
+#43# Сохранить
+#44# По-умолчанию
+#45# ГОРЯЧИЕ КЛАВИШИ
+#46# ВЫБРАТЬ МИР
+#47# ИМЯ
+#48# ДАТА СОХРАНЕНИЯ
+#49# ИГРОВОЕ ВРЕМЯ
+#50# ВЕРСИЯ
+#51# СОЗДАТЬ МИР
+#52# Подтвердите удаление мира
+#53# Назад
+#54# Удалить
+#55# ПОРТ
+#56# Пароль
+#57# МАКС ИГРОКОВ
+#58# УДАЛИТЬ
+#59# ЗАГРУЗИТЬ
+#60# ЗАГРУЗКА
+#61# Подключение...
 #62# WORLD NAME
 #63# PORT
 #64# PASSWORD
